@@ -1,9 +1,9 @@
 {
   "name": "CrashBlockModPack",
   "author": "LittleChest",
-  "version": "2",
-  "description": "欢迎访问 CrashBlock 服务器！\nQQ群：1036518896\n\n您安装了 HMCL 格式，此格式支持自动更新，推荐保持整合包为最新版本！",
-  "fileApi": "https://little-files.pages.dev",
+  "version": "1.0",
+  "description": "Private",
+  "fileApi": "https://crashblockmodpack.pages.dev",
   "files": [
     {
       "path": "config/appleskin.cfg",
@@ -15,7 +15,7 @@
     },
     {
       "path": "config/bettertitlescreen.cfg",
-      "hash": "f9af3abd6e9777ee5d3058cd073fd79c65c7f324"
+      "hash": "a3f9dc128153f4058e470fd97e4b2e7e2cc1374a"
     },
     {
       "path": "config/durabilityviewer.cfg",
@@ -99,7 +99,7 @@
     },
     {
       "path": "config/titlechanger.cfg",
-      "hash": "c55cf9b52983c05b5566218d25079b1ee3062f1b"
+      "hash": "95f66f7121aa379953b34022bca21b74f5b62429"
     },
     {
       "path": "config/waila/theme/dark.json",
