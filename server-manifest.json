@@ -4,7 +4,7 @@
   "version": "2",
   "description": "欢迎访问 CrashBlock 服务器！\nQQ群：1036518896\n\n您安装了 HMCL 格式，此格式支持自动更新，推荐保持整合包为最新版本！",
   "fileApi": "https://crashblockmodpack.pages.dev",
-  "files": [
+  [
     {
       "path": "config/appleskin.cfg",
       "hash": "86715da38df9c9446ef1c97e02d49325fc1f41e1"
@@ -150,20 +150,92 @@
       "hash": "2e1b34aa67643ec5b041dc250edfa6b44189316f"
     },
     {
+      "path": "mods/AppleSkin-mc1.12-1.0.14.jar",
+      "hash": "d798af79de48be0f00c772943e5ec5a2fb5659fa"
+    },
+    {
+      "path": "mods/appliedenergistics2-rv6-stable-7.jar",
+      "hash": "e5c3c11eafc5daf73652a2dabe855e3759caa8b5"
+    },
+    {
+      "path": "mods/architecturecraft-1.12-3.98.jar",
+      "hash": "b84097e2f7d76904333c872edeaa7749d6e10279"
+    },
+    {
+      "path": "mods/BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar",
+      "hash": "3505169dfeea40d726b23072cb695d3c0e5014da"
+    },
+    {
+      "path": "mods/BetterFps-1.4.8.jar",
+      "hash": "245235d5c67daff00ee658ee1f88ae8c3e4584b8"
+    },
+    {
+      "path": "mods/BetterTitleScreen-1.12.2-1.4b.jar",
+      "hash": "e4a5c3dbbafa4361c4e1d04b6fe6758498b4d33c"
+    },
+    {
       "path": "mods/BuildCraft.jar",
       "hash": "46c7bcb2c81f4786a84f951e7204277c967deb96"
+    },
+    {
+      "path": "mods/ChinjufuMod[1.12.2]5.1.3.jar",
+      "hash": "0d6d8ee9d7386bb04885b2b66c565354d729a169"
+    },
+    {
+      "path": "mods/corpse-1.12.2-1.0.8.jar",
+      "hash": "e367bec5785091dc9c928c1a95672a4774b0f0fd"
+    },
+    {
+      "path": "mods/Cuisine-0.5.22-build929.jar",
+      "hash": "efe94c0bb4685633580f69730a795097a286696b"
+    },
+    {
+      "path": "mods/CustomSkinLoader_ForgeLegacy-14.14-SNAPSHOT-323.jar",
+      "hash": "eeddc5a8cb6d19f0885ac2351acd50a6a6774db9"
+    },
+    {
+      "path": "mods/DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar",
+      "hash": "f95ec685ebe32f65e616d70ebb1a658778db1c13"
+    },
+    {
+      "path": "mods/ElevatorMod-1.12.2-1.3.14.jar",
+      "hash": "7701eb987d8102a345e46725f4f2c6b9fc83005c"
+    },
+    {
+      "path": "mods/EntityCulling-1.12.2-5.3.3.jar",
+      "hash": "df5fd62f63703ed215118109348e5c0432528763"
     },
     {
       "path": "mods/foamfix-0.10.14-1.12.2.jar",
       "hash": "b7f247a306e9521f3bade46ea643989702be6a14"
     },
     {
+      "path": "mods/forgeautofish-1.0.4-1.12.2.jar",
+      "hash": "c7ddf697dc73aac537dae71c756fde927197c05d"
+    },
+    {
       "path": "mods/Hwyla-1.8.26-B41_1.12.2.jar",
       "hash": "7280d5c0dab42436549bcefc63ff64a1049e5501"
     },
     {
+      "path": "mods/InventoryTweaks-1.64+dev.151.jar",
+      "hash": "3ba1e59a5109f3e94a4a0170877006b72fa77b1e"
+    },
+    {
       "path": "mods/ItemPhysic Lite 1.3.7 mc1.12.2.jar",
       "hash": "63fd419d636d509023fdc435aab2ba379970a334"
+    },
+    {
+      "path": "mods/Jade-0.1.0.jar",
+      "hash": "6876a7399c604169d7acb06d441743eaac5dd615"
+    },
+    {
+      "path": "mods/jeiintegration_1.12.2-1.6.0.jar",
+      "hash": "54228a056a85fa146503cc7a20d3cf67fd55865f"
+    },
+    {
+      "path": "mods/jei_1.12.2-4.16.1.302.jar",
+      "hash": "3e88d2896ca868c3cedb65e117ad3a1b82488fa8"
     },
     {
       "path": "mods/Kiwi.jar",
@@ -176,6 +248,26 @@
     {
       "path": "mods/LunatriusCore-1.12.2-1.2.0.42-universal.jar",
       "hash": "f70b39168f2a02d47792cf29bef432e20d0bcd57"
+    },
+    {
+      "path": "mods/Mekanism-1.12.2-9.8.3.390.jar",
+      "hash": "1d5b531b7c107d6946b3e957f4554e2cb7686320"
+    },
+    {
+      "path": "mods/MekanismGenerators-1.12.2-9.8.3.390.jar",
+      "hash": "6980bbbc9d18c5dea7e2242fe9d542da2d41c481"
+    },
+    {
+      "path": "mods/MekanismTools-1.12.2-9.8.3.390.jar",
+      "hash": "8c32f71f2db7a695abc8413aa7dfe8c28c485585"
+    },
+    {
+      "path": "mods/MixinBootstrap-1.1.0.jar",
+      "hash": "f9173708d3d2850ab8df778b9594b81cb94b1df8"
+    },
+    {
+      "path": "mods/MouseTweaks-2.10.1-mc1.12.2.jar",
+      "hash": "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d"
     },
     {
       "path": "mods/OptiFine_1.12.2_HD_U_G5.jar",
@@ -202,108 +294,16 @@
       "hash": "7e1abc8dd61390285167284a5eb3bf0e57a52760"
     },
     {
+      "path": "mods/Wawla-1.12.2-2.6.275.jar",
+      "hash": "783157c607149875de1e045d72382d370256257c"
+    },
+    {
       "path": "mods/XaerosWorldMap_1.26.5_Forge_1.12.jar",
       "hash": "7311cb4fa83fddc80a9d7aa7c18ac6bf6215c1c6"
     },
     {
       "path": "mods/Xaeros_Minimap_22.13.2_Forge_1.12.jar",
       "hash": "7014391aa4bd8897d1237c14bbf737d6f6a8e029"
-    },
-    {
-      "path": "mods/[JEI扩展] jeiintegration_1.12.2-1.6.0.jar",
-      "hash": "54228a056a85fa146503cc7a20d3cf67fd55865f"
-    },
-    {
-      "path": "mods/[JEI物品管理器] jei_1.12.2-4.16.1.302.jar",
-      "hash": "3e88d2896ca868c3cedb65e117ad3a1b82488fa8"
-    },
-    {
-      "path": "mods/[R键整理] InventoryTweaks-1.64+dev.151.jar",
-      "hash": "3ba1e59a5109f3e94a4a0170877006b72fa77b1e"
-    },
-    {
-      "path": "mods/[Wawla高亮显示] Wawla-1.12.2-2.6.275.jar",
-      "hash": "783157c607149875de1e045d72382d370256257c"
-    },
-    {
-      "path": "mods/[万用皮肤补丁] CustomSkinLoader_ForgeLegacy-14.14-SNAPSHOT-323.jar",
-      "hash": "eeddc5a8cb6d19f0885ac2351acd50a6a6774db9"
-    },
-    {
-      "path": "mods/[实体渲染机制优化] EntityCulling-1.12.2-5.3.3.jar",
-      "hash": "df5fd62f63703ed215118109348e5c0432528763"
-    },
-    {
-      "path": "mods/[更好的FPS] BetterFps-1.4.8.jar",
-      "hash": "245235d5c67daff00ee658ee1f88ae8c3e4584b8"
-    },
-    {
-      "path": "mods/[更好的标题页] BetterTitleScreen-1.12.2-1.4b.jar",
-      "hash": "e4a5c3dbbafa4361c4e1d04b6fe6758498b4d33c"
-    },
-    {
-      "path": "mods/[玉 🔍] Jade-0.1.0.jar",
-      "hash": "6876a7399c604169d7acb06d441743eaac5dd615"
-    },
-    {
-      "path": "mods/[耐久信息显示] DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar",
-      "hash": "f95ec685ebe32f65e616d70ebb1a658778db1c13"
-    },
-    {
-      "path": "mods/[自动钓鱼Forge版] forgeautofish-1.0.4-1.12.2.jar",
-      "hash": "c7ddf697dc73aac537dae71c756fde927197c05d"
-    },
-    {
-      "path": "mods/[苹果皮] AppleSkin-mc1.12-1.0.14.jar",
-      "hash": "d798af79de48be0f00c772943e5ec5a2fb5659fa"
-    },
-    {
-      "path": "mods/[鼠标手势] MouseTweaks-2.10.1-mc1.12.2.jar",
-      "hash": "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d"
-    },
-    {
-      "path": "mods/_MixinBootstrap-1.1.0.jar",
-      "hash": "f9173708d3d2850ab8df778b9594b81cb94b1df8"
-    },
-    {
-      "path": "mods/应用能源2.jar",
-      "hash": "e5c3c11eafc5daf73652a2dabe855e3759caa8b5"
-    },
-    {
-      "path": "mods/建筑师工艺重置版.jar",
-      "hash": "b84097e2f7d76904333c872edeaa7749d6e10279"
-    },
-    {
-      "path": "mods/开放式电梯.jar",
-      "hash": "7701eb987d8102a345e46725f4f2c6b9fc83005c"
-    },
-    {
-      "path": "mods/料理工艺.jar",
-      "hash": "efe94c0bb4685633580f69730a795097a286696b"
-    },
-    {
-      "path": "mods/更好的建筑之杖.jar",
-      "hash": "3505169dfeea40d726b23072cb695d3c0e5014da"
-    },
-    {
-      "path": "mods/通用机械.jar",
-      "hash": "1d5b531b7c107d6946b3e957f4554e2cb7686320"
-    },
-    {
-      "path": "mods/通用机械发电机.jar",
-      "hash": "6980bbbc9d18c5dea7e2242fe9d542da2d41c481"
-    },
-    {
-      "path": "mods/通用机械工具.jar",
-      "hash": "8c32f71f2db7a695abc8413aa7dfe8c28c485585"
-    },
-    {
-      "path": "mods/遗体.jar",
-      "hash": "e367bec5785091dc9c928c1a95672a4774b0f0fd"
-    },
-    {
-      "path": "mods/镇守府.jar",
-      "hash": "0d6d8ee9d7386bb04885b2b66c565354d729a169"
     },
     {
       "path": "options.txt",
