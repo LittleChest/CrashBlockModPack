@@ -1,0 +1,513 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "CrashBlockModPack",
+  "version": "2.1",
+  "author": "LittleChest",
+  "description": "欢迎访问 CrashBlock 服务器！\nQQ群：1036518896",
+  "fileApi": "https://crashblockmodpack.pages.dev",
+  "url": "https://mc.crashblock.top",
+  "privacyPolicyUrl": "https://blog.crashblock.top/index.php/archives/9/",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.12.2"
+    },
+    {
+      "id": "forge",
+      "version": "14.23.5.2860"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "config/appleskin.cfg",
+      "hash": "86715da38df9c9446ef1c97e02d49325fc1f41e1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/betterfps.json",
+      "hash": "c4dae4f37c8bd8dc10df4a793291a748924ed1f7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bettertitlescreen.cfg",
+      "hash": "db210f23d2991038714197e0078d9dd0d03b5a4c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/durabilityviewer.cfg",
+      "hash": "1fa7fda8ade5b7694c68abffb463007b2eea0707",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/entityculling.cfg",
+      "hash": "e054db6dd55b92ab06929e9e974c23d326725208",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/foamfix.cfg",
+      "hash": "8c0807cd779dbc6ca90b8c4f0465a994b5f0652d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge.cfg",
+      "hash": "204e9705dc79d04223cef171d3b772d2c4445c78",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forgeChunkLoading.cfg",
+      "hash": "77694a92f84b4b6f23c399826f9b107ebb9cd4a7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/InvTweaks/InvTweaks.cfg",
+      "hash": "88e4dee3ab181a44391e2618fb2ba7693bb712ee",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/InvTweaks/InvTweaksRules.txt",
+      "hash": "113fbfecca67defc97d60154ae321b418932961e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/InvTweaks/InvTweaksTree.txt",
+      "hash": "95b0bcd5ef29ca5158405818cb2614ed7e477586",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/InvTweaks/trees/readme.txt",
+      "hash": "22662627f704aaf7d3f37619790732e0eaee8dd6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/itemphysic.cfg",
+      "hash": "5b44c2bd86f32f909348a61d7d6fb3f3b67ac0dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade.cfg",
+      "hash": "6e3bdb8ad8b6a02ae6c8b0f494489acbe05cbabe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/itemBlacklist.cfg",
+      "hash": "b7d729875a1a71890f0733c3afba4ba0950583e8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/jei.cfg",
+      "hash": "0ceafcfc178f54bdd3caa33f81d85e500e536b3f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/searchColors.cfg",
+      "hash": "493ef0b6b71936166abb91e909ec4157c227ee9c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/worldSettings.cfg",
+      "hash": "0d54fd10d93e0d621784317de15be8d3a3d49b34",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jeiintegration.cfg",
+      "hash": "6b798fd4b555228062cad6d056562421ec0c95b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/LLOverlayReloaded.cfg",
+      "hash": "e6790cd4c76f41fa1f0219eb3d370a382a33c980",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/lunatriuscore.cfg",
+      "hash": "1bd6ea5017d6ada033aa44507292e6a5a23b1e2d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/schematica.cfg",
+      "hash": "2f25482051c46079dd7f19f28e59235bd75e060e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/splash.properties",
+      "hash": "df3487232851803a00342c764aea744eadb94f6e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/titlechanger.cfg",
+      "hash": "6091c58a194730c8b71aed48e0f3916c424120f3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/waila/theme/dark.json",
+      "hash": "201a8069dde8bb83135cbd76d9f1f335e3d05a56",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/waila/theme/vanilla.json",
+      "hash": "ef1ac81e709641d64b8a525cd7f60becd86668b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/waila/waila.cfg",
+      "hash": "cbd1590480d183f73e83d5884633c1b1fc80a02f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/wailaharvestability.cfg",
+      "hash": "96845f2baff2eee31191b6fb9f77f4478bff6cf0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/wawla.cfg",
+      "hash": "a74a818c955681abbed25baf397f5e11cb59a72c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaerominimap.txt",
+      "hash": "7e25856735ae18785ac215823c554132f0abe402",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "hash": "5f7c9f8109b5aa7e03112a18f9740e2d33260208",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "ea102322bdf5be36acef1ed783e85b6a0d1ee418",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "hash": "ca0559b4ee54bdc0eccdfb9e2f69f7e0b1dd74ff",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "2e1b34aa67643ec5b041dc250edfa6b44189316f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path":"modpack.cfg",
+      "hash":"c6547467c82f71c163b68fbfd79e985cfa8d7c87",
+      "force":true,
+      "type":"addon"
+    },
+    {
+      "path": "mods/AppleSkin-mc1.12-1.0.14.jar",
+      "hash": "d798af79de48be0f00c772943e5ec5a2fb5659fa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/appliedenergistics2-rv6-stable-7.jar",
+      "hash": "e5c3c11eafc5daf73652a2dabe855e3759caa8b5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/architecturecraft-1.12-3.98.jar",
+      "hash": "b84097e2f7d76904333c872edeaa7749d6e10279",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar",
+      "hash": "3505169dfeea40d726b23072cb695d3c0e5014da",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/BetterFps-1.4.8.jar",
+      "hash": "245235d5c67daff00ee658ee1f88ae8c3e4584b8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/BetterTitleScreen-1.12.2-1.4b.jar",
+      "hash": "e4a5c3dbbafa4361c4e1d04b6fe6758498b4d33c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/BuildCraft.jar",
+      "hash": "46c7bcb2c81f4786a84f951e7204277c967deb96",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ChinjufuMod[1.12.2]5.1.3.jar",
+      "hash": "0d6d8ee9d7386bb04885b2b66c565354d729a169",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/corpse-1.12.2-1.0.8.jar",
+      "hash": "e367bec5785091dc9c928c1a95672a4774b0f0fd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Cuisine-0.5.22-build929.jar",
+      "hash": "efe94c0bb4685633580f69730a795097a286696b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/CustomSkinLoader_ForgeLegacy-14.14-SNAPSHOT-323.jar",
+      "hash": "eeddc5a8cb6d19f0885ac2351acd50a6a6774db9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar",
+      "hash": "f95ec685ebe32f65e616d70ebb1a658778db1c13",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ElevatorMod-1.12.2-1.3.14.jar",
+      "hash": "7701eb987d8102a345e46725f4f2c6b9fc83005c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/EntityCulling-1.12.2-5.3.3.jar",
+      "hash": "df5fd62f63703ed215118109348e5c0432528763",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/foamfix-0.10.14-1.12.2.jar",
+      "hash": "b7f247a306e9521f3bade46ea643989702be6a14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/forgeautofish-1.0.4-1.12.2.jar",
+      "hash": "c7ddf697dc73aac537dae71c756fde927197c05d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Hwyla-1.8.26-B41_1.12.2.jar",
+      "hash": "7280d5c0dab42436549bcefc63ff64a1049e5501",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/InventoryTweaks-1.64+dev.151.jar",
+      "hash": "3ba1e59a5109f3e94a4a0170877006b72fa77b1e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ItemPhysic Lite 1.3.7 mc1.12.2.jar",
+      "hash": "63fd419d636d509023fdc435aab2ba379970a334",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Jade-0.1.0.jar",
+      "hash": "6876a7399c604169d7acb06d441743eaac5dd615",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/jeiintegration_1.12.2-1.6.0.jar",
+      "hash": "54228a056a85fa146503cc7a20d3cf67fd55865f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/jei_1.12.2-4.16.1.302.jar",
+      "hash": "3e88d2896ca868c3cedb65e117ad3a1b82488fa8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Kiwi.jar",
+      "hash": "a7bf1a653653b7b6885af49be18348613874fb22",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/LLOverlayReloaded-1.1.6-mc1.12.2.jar",
+      "hash": "38de949c94ac06b2fce94e642b729568ce7788af",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/LunatriusCore-1.12.2-1.2.0.42-universal.jar",
+      "hash": "f70b39168f2a02d47792cf29bef432e20d0bcd57",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Mekanism-1.12.2-9.8.3.390.jar",
+      "hash": "1d5b531b7c107d6946b3e957f4554e2cb7686320",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/MekanismGenerators-1.12.2-9.8.3.390.jar",
+      "hash": "6980bbbc9d18c5dea7e2242fe9d542da2d41c481",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/MekanismTools-1.12.2-9.8.3.390.jar",
+      "hash": "8c32f71f2db7a695abc8413aa7dfe8c28c485585",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/MixinBootstrap-1.1.0.jar",
+      "hash": "f9173708d3d2850ab8df778b9594b81cb94b1df8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/MouseTweaks-2.10.1-mc1.12.2.jar",
+      "hash": "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Patchouli.jar",
+      "hash": "0febe14bdd007b13f6089a16a57d90e44646f041",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Schematica-1.12.2-1.8.0.169-universal.jar",
+      "hash": "cc8c851bc47ecf314c3974e3b90acfa1a62105ac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ShulkerTooltip-1.9.2.2.jar",
+      "hash": "3c955281898810775ab0e7863b34e5071ed3d291",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/titlechanger-1.1.4.jar",
+      "hash": "2def940726743bef161adc2c729c4ea009ad294f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/WailaHarvestability-mc1.12-1.1.12.jar",
+      "hash": "7e1abc8dd61390285167284a5eb3bf0e57a52760",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Wawla-1.12.2-2.6.275.jar",
+      "hash": "783157c607149875de1e045d72382d370256257c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.26.5_Forge_1.12.jar",
+      "hash": "7311cb4fa83fddc80a9d7aa7c18ac6bf6215c1c6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_22.13.2_Forge_1.12.jar",
+      "hash": "7014391aa4bd8897d1237c14bbf737d6f6a8e029",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "options.txt",
+      "hash": "26f76746d53edc8c7072cf30349c2dcf6aa6746a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "optionsof.txt",
+      "hash": "4c3bbcd1f0444eab843a6f10ec1f3e053c2eb0bd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Package.BakaCoreInfo",
+      "hash": "02f4f6bcc600270493c6ae0bec3477ff978f4447",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "PCL/Logo.png",
+      "hash": "8af016649341d11f4118d533d3bd5ca21dcfac26",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "PCL/Setup.ini",
+      "hash": "4dd9314d9ddf9be0f9242e78bc7010cb7c886d12",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "1b6bb84905cf37c4278e15d78dc7a37a19611663",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 1024,
+    "launchArgument": [],
+    "javaArgument": []
+  },
+  "serverInfo": {
+    "authlibInjectorServer": "https://pass.crashblock.top/api/yggdrasil",
+    "authlibInjectorAllowOnlineMode": false
+  }
+}

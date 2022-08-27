@@ -1,8 +1,8 @@
 {
   "name": "CrashBlockModPack",
   "author": "LittleChest",
-  "version": "2",
-  "description": "欢迎访问 CrashBlock 服务器！\nQQ群：1036518896\n\n您安装了 HMCL 格式，此格式支持自动更新，推荐保持整合包为最新版本！",
+  "version": "2.1",
+  "description": "欢迎访问 CrashBlock 服务器！\nQQ群：1036518896",
   "fileApi": "https://crashblockmodpack.pages.dev",
   "files": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "path": "config/bettertitlescreen.cfg",
-      "hash": "a3f9dc128153f4058e470fd97e4b2e7e2cc1374a"
+      "hash": "db210f23d2991038714197e0078d9dd0d03b5a4c"
     },
     {
       "path": "config/durabilityviewer.cfg",
@@ -99,7 +99,7 @@
     },
     {
       "path": "config/titlechanger.cfg",
-      "hash": "95f66f7121aa379953b34022bca21b74f5b62429"
+      "hash": "6091c58a194730c8b71aed48e0f3916c424120f3"
     },
     {
       "path": "config/waila/theme/dark.json",
@@ -120,14 +120,6 @@
     {
       "path": "config/wawla.cfg",
       "hash": "a74a818c955681abbed25baf397f5e11cb59a72c"
-    },
-    {
-      "path": "config/wecui3.yml",
-      "hash": "402c04592c069f1ed3597b5917166f9039d8c7a8"
-    },
-    {
-      "path": "config/worldedit/worldedit.properties",
-      "hash": "2da47286bbb02205b833b4d0a0bcac751e0ffa44"
     },
     {
       "path": "config/xaerominimap.txt",
@@ -270,10 +262,6 @@
       "hash": "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d"
     },
     {
-      "path": "mods/OptiFine_1.12.2_HD_U_G5.jar",
-      "hash": "ca3aea3a09ce215906c346fe190907fe0347b0c4"
-    },
-    {
       "path": "mods/Patchouli.jar",
       "hash": "0febe14bdd007b13f6089a16a57d90e44646f041"
     },
@@ -315,7 +303,7 @@
     },
     {
       "path": "Package.BakaCoreInfo",
-      "hash": "b656b745a1569d8327e9c63acd8f2ae678ea0a12"
+      "hash": "02f4f6bcc600270493c6ae0bec3477ff978f4447"
     },
     {
       "path": "PCL/Logo.png",
@@ -323,7 +311,7 @@
     },
     {
       "path": "PCL/Setup.ini",
-      "hash": "613ec38c60380f418ea2ef50947f420d4b652175"
+      "hash": "4dd9314d9ddf9be0f9242e78bc7010cb7c886d12"
     },
     {
       "path": "servers.dat",
