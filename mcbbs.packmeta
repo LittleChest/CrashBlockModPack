@@ -2,13 +2,13 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
   "name": "CrashBlockModPack",
-  "version": "2.1",
+  "version": "2.3",
   "author": "LittleChest",
   "description": "欢迎访问 CrashBlock 服务器！\nQQ群：1036518896",
   "fileApi": "https://crashblockmodpack.pages.dev",
-  "url": "https://mc.crashblock.top",
-  "privacyPolicyUrl": "https://blog.crashblock.top/index.php/archives/9/",
-  "forceUpdate": false,
+  "url": "https://flowus.cn/littlechest/share/3cd0ba84-74cb-4e2e-b544-71e36737513c",
+  "privacyPolicyUrl": "https://wiki.akarin.asia/",
+  "forceUpdate": true,
   "origin": [],
   "addons": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "path": "config/bettertitlescreen.cfg",
-      "hash": "db210f23d2991038714197e0078d9dd0d03b5a4c",
+      "hash": "54e07c6c9d9399d9e85c87353839ac22e4640eb0",
       "force": true,
       "type": "addon"
     },
@@ -162,7 +162,7 @@
     },
     {
       "path": "config/titlechanger.cfg",
-      "hash": "6091c58a194730c8b71aed48e0f3916c424120f3",
+      "hash": "3d2c13123f4bf483f244bb531e48c3643f658dcd",
       "force": true,
       "type": "addon"
     },
@@ -225,12 +225,6 @@
       "hash": "2e1b34aa67643ec5b041dc250edfa6b44189316f",
       "force": true,
       "type": "addon"
-    },
-    {
-      "path":"modpack.cfg",
-      "hash":"c6547467c82f71c163b68fbfd79e985cfa8d7c87",
-      "force":true,
-      "type":"addon"
     },
     {
       "path": "mods/AppleSkin-mc1.12-1.0.14.jar",
@@ -413,8 +407,20 @@
       "type": "addon"
     },
     {
+      "path": "mods/NoMoreRecipeConflict-0.13(1.12.2).jar",
+      "hash": "b6eb46393d7b163c9704ceaeb42fa2b9115ab980",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/Patchouli.jar",
       "hash": "0febe14bdd007b13f6089a16a57d90e44646f041",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Reforged-0.7.5-1.12+.jar",
+      "hash": "7973ead685ca2f8381eb49f5a3eaed1dd2ef817d",
       "force": true,
       "type": "addon"
     },
@@ -427,6 +433,12 @@
     {
       "path": "mods/ShulkerTooltip-1.9.2.2.jar",
       "hash": "3c955281898810775ab0e7863b34e5071ed3d291",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/TeaStory-3.3.3-B33.418-1.12.2.jar",
+      "hash": "921f04e6670e601b974e371a510d020321e25ea3",
       "force": true,
       "type": "addon"
     },
@@ -449,8 +461,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/XaerosWorldMap_1.26.5_Forge_1.12.jar",
-      "hash": "7311cb4fa83fddc80a9d7aa7c18ac6bf6215c1c6",
+      "path": "mods/XaerosWorldMap_1.26.6_Forge_1.12.jar",
+      "hash": "f1dbb0c6001584d45546630de18986d1592f1fc9",
       "force": true,
       "type": "addon"
     },
@@ -474,7 +486,7 @@
     },
     {
       "path": "Package.BakaCoreInfo",
-      "hash": "02f4f6bcc600270493c6ae0bec3477ff978f4447",
+      "hash": "4d5de664083fd84cca935e086769615794d0d955",
       "force": true,
       "type": "addon"
     },
@@ -486,7 +498,7 @@
     },
     {
       "path": "PCL/Setup.ini",
-      "hash": "4dd9314d9ddf9be0f9242e78bc7010cb7c886d12",
+      "hash": "61591071a7986ddafc9fa1bde2b103f20f3dd648",
       "force": true,
       "type": "addon"
     },
@@ -500,14 +512,15 @@
   "settings": {
     "install_mods": true,
     "install_resourcepack": true
-  },
-  "launchInfo": {
+    },
+    "launchInfo": {
     "minMemory": 1024,
+    "supportJava": [],
     "launchArgument": [],
     "javaArgument": []
-  },
-  "serverInfo": {
+    },
+    "serverInfo": {
     "authlibInjectorServer": "https://pass.crashblock.top/api/yggdrasil",
     "authlibInjectorAllowOnlineMode": false
-  }
+    }
 }

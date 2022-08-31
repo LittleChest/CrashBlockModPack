@@ -2,7 +2,7 @@
   "name": "CrashBlockModPack",
   "author": "LittleChest",
   "version": "2.3",
-  "description": "欢迎访问 CrashBlock 服务器！\n这是一个非官方整合包\n\nQQ群：1036518896",
+  "description": "欢迎访问 CrashBlock 服务器！\nQQ群：1036518896",
   "fileApi": "https://crashblockmodpack.pages.dev",
   "files": [
     {
@@ -315,7 +315,7 @@
     },
     {
       "path": "Package.BakaCoreInfo",
-      "hash": "02f4f6bcc600270493c6ae0bec3477ff978f4447"
+      "hash": "4d5de664083fd84cca935e086769615794d0d955"
     },
     {
       "path": "PCL/Logo.png",
@@ -323,7 +323,7 @@
     },
     {
       "path": "PCL/Setup.ini",
-      "hash": "4dd9314d9ddf9be0f9242e78bc7010cb7c886d12"
+      "hash": "61591071a7986ddafc9fa1bde2b103f20f3dd648"
     },
     {
       "path": "servers.dat",
