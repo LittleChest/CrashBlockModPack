@@ -1,8 +1,8 @@
 {
   "name": "CrashBlockModPack",
   "author": "LittleChest",
-  "version": "2.1",
-  "description": "欢迎访问 CrashBlock 服务器！\nQQ群：1036518896",
+  "version": "2.3",
+  "description": "欢迎访问 CrashBlock 服务器！\n这是一个非官方整合包\n\nQQ群：1036518896",
   "fileApi": "https://crashblockmodpack.pages.dev",
   "files": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "path": "config/bettertitlescreen.cfg",
-      "hash": "db210f23d2991038714197e0078d9dd0d03b5a4c"
+      "hash": "54e07c6c9d9399d9e85c87353839ac22e4640eb0"
     },
     {
       "path": "config/durabilityviewer.cfg",
@@ -99,7 +99,7 @@
     },
     {
       "path": "config/titlechanger.cfg",
-      "hash": "6091c58a194730c8b71aed48e0f3916c424120f3"
+      "hash": "3d2c13123f4bf483f244bb531e48c3643f658dcd"
     },
     {
       "path": "config/waila/theme/dark.json",
@@ -262,8 +262,16 @@
       "hash": "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d"
     },
     {
+      "path": "mods/NoMoreRecipeConflict-0.13(1.12.2).jar",
+      "hash": "b6eb46393d7b163c9704ceaeb42fa2b9115ab980"
+    },
+    {
       "path": "mods/Patchouli.jar",
       "hash": "0febe14bdd007b13f6089a16a57d90e44646f041"
+    },
+    {
+      "path": "mods/Reforged-0.7.5-1.12+.jar",
+      "hash": "7973ead685ca2f8381eb49f5a3eaed1dd2ef817d"
     },
     {
       "path": "mods/Schematica-1.12.2-1.8.0.169-universal.jar",
@@ -272,6 +280,10 @@
     {
       "path": "mods/ShulkerTooltip-1.9.2.2.jar",
       "hash": "3c955281898810775ab0e7863b34e5071ed3d291"
+    },
+    {
+      "path": "mods/TeaStory-3.3.3-B33.418-1.12.2.jar",
+      "hash": "921f04e6670e601b974e371a510d020321e25ea3"
     },
     {
       "path": "mods/titlechanger-1.1.4.jar",
@@ -286,8 +298,8 @@
       "hash": "783157c607149875de1e045d72382d370256257c"
     },
     {
-      "path": "mods/XaerosWorldMap_1.26.5_Forge_1.12.jar",
-      "hash": "7311cb4fa83fddc80a9d7aa7c18ac6bf6215c1c6"
+      "path": "mods/XaerosWorldMap_1.26.6_Forge_1.12.jar",
+      "hash": "f1dbb0c6001584d45546630de18986d1592f1fc9"
     },
     {
       "path": "mods/Xaeros_Minimap_22.13.2_Forge_1.12.jar",
